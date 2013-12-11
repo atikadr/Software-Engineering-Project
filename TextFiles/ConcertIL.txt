@@ -1,0 +1,6 @@
+Bouquet	1	20.0	Closing	
+Instructors	2	200.0	Miscellaneous	
+MCs	2	50.0	Miscellaneous	
+Guest Performers	2	50.0	Miscellaneous	
+Ticket Printings	10	0.5	Miscellaneous	
+Booklet Printing	10	0.5	Miscellaneous	
